@@ -29,3 +29,5 @@ HTTP message headers are represented by an object like this:
 'connection': 'keep-alive',
 'host': 'example.com',
 'accept': '_/_' }
+
+image.png
